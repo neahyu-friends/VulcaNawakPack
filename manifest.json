@@ -1,0 +1,24 @@
+{
+    "name": "VulcaNawakPack",
+    "version_number": "",
+    "website_url": "https://github.com/neahyu-friends/VulcaNawakPack",
+    "description": "Take my wtf modpack",
+    "dependencies": [
+		"neahyu_friends-VulcaSuperPack-2.1.0",
+		"Kittenji-Maxwell_ScrapItem-1.0.1",
+		"Jordo-NeedyCats-1.2.1",
+		"rileyzzz-Skibidi_Toilet-1.0.2",
+		"XuXiaolan-TheGiantSpecimens-2.1.5",
+		"Rolevote-The_Fiend-1.0.5",
+		"Ccode_lang-SirenHead-1.4.3",
+		"x753-Peepers-1.0.2",
+		"loaforc-FacilityMeltdown-2.6.11",
+		"Canigou_Sudio-KarineLeBracken-1.2.0",
+		"CHILLAX-ChillaxSCRAPS-0.6.0",
+		"Kittenji-Dont_Touch_Me-1.2.2",
+		"Theronguard-Emergency_Dice-1.1.23",
+		"Alice-ScarletDevilMansion-1.3.16",
+		"Dantor-Dantors_Mental_Hospital-1.2.2",
+		"skidz-PoolRooms-0.1.22"
+    ]
+}
